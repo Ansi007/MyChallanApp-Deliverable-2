@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='33 -15 1001 630' xmlns:xlink='http://www.w3.org/1999/xlink' width='1001.0px' font-size='13' font-family='Arial, LiberationSans' version='1.1' height='630.0px'>
+  <defs>
+<style type='text/css'><![CDATA[svg text {text-rendering: geometricPrecision;}]]></style>    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='ebd4e6d0-5fd7-4258-ad49-9a9e6bb5bdcd' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='b2185b5d-0e2c-4003-8a5e-47cfabdcfa2f' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='1f024c0d-809f-4a87-83e0-002eae40cb5d' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(239, 233, 222)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='e3feeffa-a3c1-4c58-b17f-76ced8d22667' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(239, 233, 222)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='d339c02e-51fb-47be-9b98-76dfc1b4f214' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(239, 233, 222)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='26267986-5d7d-4e17-8e0a-b6d2196b77d8' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(239, 233, 222)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='f5cdf4be-cf1e-4af3-901c-1d615c466593' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(239, 233, 222)'/>
+    </linearGradient>
+  </defs>
+  <desc>SequenceDiagram</desc>
+  <g transform='translate(63.0,117.0)' id='_nSeaID_KEDqUzPH5DK90Lg'>
+    <polygon stroke-width='0.5' fill='rgb(255, 255, 255)' stroke='rgb(107, 107, 107)' look='allInOne' points='0.0,0.0 0.0,440.0 200.0,440.0 200.0,15.0 185.0,0.0'/>
+    <polygon stroke-width='1.0' fill='rgb(107, 107, 107)' look='border' stroke='rgb(107, 107, 107)' points='185.0,1.0 185.0,15.0 199.0,15.0'/>
+    <clipPath id='clip_nSeaID_KEDqUzPH5DK90Lg'>
+      <rect x='5.0' width='175.0px' y='5.0' height='430.0px'/>
+    </clipPath>
+    <g transform='translate(0.0,0.0)'>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='18.0' font-size='13' fill='rgb(45, 45, 45)'>UC5: Issue Challan</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='31.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='44.0' font-size='13' fill='rgb(45, 45, 45)'>Main Success Scenario (or</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='57.0' font-size='13' fill='rgb(45, 45, 45)'>Basic Flow): </text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='70.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='83.0' font-size='13' fill='rgb(45, 45, 45)'>•	Violation has occurred.</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='96.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='109.0' font-size='13' fill='rgb(45, 45, 45)'>•	Warden has identified the</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='122.0' font-size='13' fill='rgb(45, 45, 45)'>violator.</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='135.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='148.0' font-size='13' fill='rgb(45, 45, 45)'>•	Warden has authenticated</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='161.0' font-size='13' fill='rgb(45, 45, 45)'>the vehicle.</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='174.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='187.0' font-size='13' fill='rgb(45, 45, 45)'>•	Warden starts a new</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='200.0' font-size='13' fill='rgb(45, 45, 45)'>challan.</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='213.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='226.0' font-size='13' fill='rgb(45, 45, 45)'>•	Warden selects the</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='239.0' font-size='13' fill='rgb(45, 45, 45)'>particular violation(s).</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='252.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='265.0' font-size='13' fill='rgb(45, 45, 45)'>•	Warden issues challan.</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='278.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='291.0' font-size='13' fill='rgb(45, 45, 45)'>•	System records details of</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='304.0' font-size='13' fill='rgb(45, 45, 45)'>challan and enters it in the</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='317.0' font-size='13' fill='rgb(45, 45, 45)'>system database.</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='330.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='343.0' font-size='13' fill='rgb(45, 45, 45)'>•	Notification is sent to the</text>
+      <text clip-path='url(#clip_nSeaID_KEDqUzPH5DK90Lg)' x='5.0' y='356.0' font-size='13' fill='rgb(45, 45, 45)'>violator.</text>
+    </g>
+  </g>
+  <g transform='translate(296.0,15.0)' id='_4Yvs0T2AEDqBnZWTJBooPA'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='168.0px' y='0.0' stroke-width='1.0' fill='url(#ebd4e6d0-5fd7-4258-ad49-9a9e6bb5bdcd)' stroke='rgb(187, 187, 187)' look='allInOne' height='33.0px'/>
+    <line y1='33.0' x1='84.0' y2='570.0' stroke-dasharray='10, 5' x2='84.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+    <g transform='translate(16.0)'>
+      <image x='0.0' width='16.0' y='10.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAHlBMVEX////g6vJGd6yyyN+2y+Dn7/fw9frD0+X5+/3H1uZmESFUAAAAAXRSTlMAQObYZgAAAAFiS0dEAmYLfGQAAAAHdElNRQfhBA8EJBBXeY0PAAAATklEQVQI12NgYGBUUmQAAyFjIwEwQyU0RAHMUEtLgzDUO9ohDKGZkyBq4LoYJk2AUEpAAGLOnDlp5swJyFIIBqemJkwAIsSpCUJQFUAMALiSE4+MitOeAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE1LTAxLTIxVDE0OjM5OjAzKzAxOjAwLVOS0gAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNS0wMS0yMVQxNDozOTowMyswMTowMFwOKm4AAAAASUVORK5CYII=' height='16.0'/>
+      <text font-weight='bold' text-anchor='start' x='18.0' y='22.0' font-size='13' fill='rgb(3, 54, 86)'>Warden: &lt;&lt;actor&gt;&gt;</text>
+    </g>
+  </g>
+  <g transform='translate(677.0,15.0)' id='_5vHp4j2AEDqBnZWTJBooPA'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='116.0px' y='0.0' stroke-width='1.0' fill='url(#b2185b5d-0e2c-4003-8a5e-47cfabdcfa2f)' stroke='rgb(187, 187, 187)' look='allInOne' height='33.0px'/>
+    <line y1='33.0' x1='58.0' y2='570.0' stroke-dasharray='10, 5' x2='58.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+    <g transform='translate(26.0)'>
+      <image x='0.0' width='16.0' y='10.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAMFBMVEX///9woMRAgLDi8P84e7Dp9P86fLDw9/88fbD3+/89frD+/v8/f7AAUpEAS4XA0+HHhLc3AAAAAXRSTlMAQObYZgAAAAFiS0dEDxi6ANkAAAAHdElNRQfhBA4RJS4tUqcbAAAAQElEQVQI12NgYFQCAQYGBiZjIDABMUKBIAzEKAeCChBjJhDMAjF2A8EeIAOo6xJYFxA8YICCDzDGAwwGMVIgAADwcBTlv8WhiQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNS0wMS0yMVQxNDozOTowMyswMTowMC1TktIAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTUtMDEtMjFUMTQ6Mzk6MDMrMDE6MDBcDipuAAAAAElFTkSuQmCC' height='16.0'/>
+      <text font-weight='bold' text-anchor='start' x='18.0' y='22.0' font-size='13' fill='rgb(3, 54, 86)'>System</text>
+    </g>
+  </g>
+  <g transform='translate(727.0,120.0)' id='__Jyi0j2AEDqBnZWTJBooPA'>
+    <rect rx='2.0' ry='2.0' x='0.0' width='16.0px' y='0.0' stroke-width='1.0' fill='url(#1f024c0d-809f-4a87-83e0-002eae40cb5d)' stroke='rgb(194, 183, 159)' look='allInOne' height='50.0px'/>
+  </g>
+  <g transform='translate(727.0,227.0)' id='_OzPj8D2BEDqBnZWTJBooPA'>
+    <rect rx='2.0' ry='2.0' x='0.0' width='16.0px' y='0.0' stroke-width='1.0' fill='url(#e3feeffa-a3c1-4c58-b17f-76ced8d22667)' stroke='rgb(194, 183, 159)' look='allInOne' height='50.0px'/>
+  </g>
+  <g transform='translate(727.0,338.0)' id='_S0ucZT2BEDqBnZWTJBooPA'>
+    <rect rx='2.0' ry='2.0' x='0.0' width='16.0px' y='0.0' stroke-width='1.0' fill='url(#d339c02e-51fb-47be-9b98-76dfc1b4f214)' stroke='rgb(194, 183, 159)' look='allInOne' height='50.0px'/>
+  </g>
+  <g transform='translate(727.0,433.0)' id='_VAWmcT2BEDqBnZWTJBooPA'>
+    <rect rx='2.0' ry='2.0' x='0.0' width='16.0px' y='0.0' stroke-width='1.0' fill='url(#26267986-5d7d-4e17-8e0a-b6d2196b77d8)' stroke='rgb(194, 183, 159)' look='allInOne' height='103.0px'/>
+  </g>
+  <g transform='translate(734.0,454.0)' id='_ja2L0D_LEDqUzPH5DK90Lg'>
+    <rect rx='2.0' ry='2.0' x='0.0' width='16.0px' y='0.0' stroke-width='1.0' fill='url(#f5cdf4be-cf1e-4af3-901c-1d615c466593)' stroke='rgb(194, 183, 159)' look='allInOne' height='50.0px'/>
+  </g>
+  <g transform='translate(504.0,100.0)' id='__J0_ED2AEDqBnZWTJBooPA'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='81.5' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>IdentifyViolator(Biometric)</text>
+    </g>
+  </g>
+  <g transform='translate(511.0,150.0)' id='__J2NMD2AEDqBnZWTJBooPA'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='55.0' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>User is</text>
+      <text text-anchor='middle' x='55.0' y='29.0' font-size='13' fill='rgb(0, 0, 0)'>identified</text>
+    </g>
+  </g>
+  <g transform='translate(496.0,206.0)' id='_OzSAMz2BEDqBnZWTJBooPA'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='89.0' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>VerifyVehicle(RegNo,</text>
+      <text text-anchor='middle' x='89.0' y='29.0' font-size='13' fill='rgb(0, 0, 0)'>CNIC)</text>
+    </g>
+  </g>
+  <g transform='translate(495.0,256.0)' id='_OzTOUD2BEDqBnZWTJBooPA'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='57.5' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>Vehicle is</text>
+      <text text-anchor='middle' x='57.5' y='29.0' font-size='13' fill='rgb(0, 0, 0)'>verified</text>
+    </g>
+  </g>
+  <g transform='translate(492.0,316.0)' id='_S0wRmD2BEDqBnZWTJBooPA'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='65.5' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>Starts a new</text>
+      <text text-anchor='middle' x='65.5' y='29.0' font-size='13' fill='rgb(0, 0, 0)'>challan</text>
+    </g>
+  </g>
+  <g transform='translate(519.0,411.0)' id='_VAYboz2BEDqBnZWTJBooPA'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='65.0' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>IssueChallan(CNIC)</text>
+    </g>
+  </g>
+  <g transform='translate(437.0,512.0)' id='_VAaQ0D2BEDqBnZWTJBooPA'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='125.0' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>A Challan has been issued to the</text>
+      <text text-anchor='middle' x='125.0' y='29.0' font-size='13' fill='rgb(0, 0, 0)'>violater</text>
+    </g>
+  </g>
+  <g transform='translate(773.0,492.0)' id='_jbXwQD_LEDqUzPH5DK90Lg'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='115.5' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>New Record is added in the</text>
+      <text text-anchor='middle' x='115.5' y='29.0' font-size='13' fill='rgb(0, 0, 0)'>database</text>
+    </g>
+  </g>
+  <g transform='translate(773.0,427.0)' id='_jbN_QT_LEDqUzPH5DK90Lg'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='56.5' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>UpdateDatabse()</text>
+    </g>
+  </g>
+  <g id='__Jx7wj2AEDqBnZWTJBooPA'>
+    <line y1='170.0' x1='727.0' y2='170.0' x2='380.0' stroke-dasharray='1, 2' id='__J1mIj2AEDqBnZWTJBooPA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(380.0,170.0) rotate(-90.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='__JxUsj2AEDqBnZWTJBooPA'>
+    <line y1='120.0' x1='380.0' y2='120.0' x2='727.0' id='__Jzw8D2AEDqBnZWTJBooPA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(727.0,120.0) rotate(90.0)' stroke-width='1.0' fill='rgb(0, 0, 0)' stroke='rgb(0, 0, 0)' points='-4.0,12.0 0.0,0.0 4.0,12.0'/>
+  </g>
+  <g id='_OzO84z2BEDqBnZWTJBooPA'>
+    <line y1='277.0' x1='727.0' y2='277.0' x2='380.0' stroke-dasharray='1, 2' id='_OzSANj2BEDqBnZWTJBooPA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(380.0,277.0) rotate(-90.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_OzO84D2BEDqBnZWTJBooPA'>
+    <line y1='227.0' x1='380.0' y2='227.0' x2='727.0' id='_OzPj9D2BEDqBnZWTJBooPA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(727.0,227.0) rotate(90.0)' stroke-width='1.0' fill='rgb(0, 0, 0)' stroke='rgb(0, 0, 0)' points='-4.0,12.0 0.0,0.0 4.0,12.0'/>
+  </g>
+  <g id='_S0t1VD2BEDqBnZWTJBooPA'>
+    <line y1='338.0' x1='380.0' y2='338.0' x2='727.0' id='_S0vDcz2BEDqBnZWTJBooPA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(727.0,338.0) rotate(90.0)' stroke-width='1.0' fill='rgb(0, 0, 0)' stroke='rgb(0, 0, 0)' points='-4.0,12.0 0.0,0.0 4.0,12.0'/>
+  </g>
+  <g id='_VAV_ZD2BEDqBnZWTJBooPA'>
+    <line y1='536.0' x1='727.0' y2='536.0' x2='380.0' stroke-dasharray='1, 2' id='_VAZpwj2BEDqBnZWTJBooPA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(380.0,536.0) rotate(-90.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_VAV_YT2BEDqBnZWTJBooPA'>
+    <line y1='433.0' x1='380.0' y2='433.0' x2='727.0' id='_VAWmdT2BEDqBnZWTJBooPA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(727.0,433.0) rotate(90.0)' stroke-width='1.0' fill='rgb(0, 0, 0)' stroke='rgb(0, 0, 0)' points='-4.0,12.0 0.0,0.0 4.0,12.0'/>
+  </g>
+  <g id='_jawFMD_LEDqUzPH5DK90Lg'>
+    <line y1='519.0' x1='773.0' y2='520.0' x2='743.0' stroke-dasharray='1, 2' id='_jbWiID_LEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(743.0,520.0) rotate(-91.9091524329964)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_jawFMD_LEDqUzPH5DK90Lg'>
+    <line y1='504.0' x1='773.0' y2='519.0' x2='773.0' stroke-dasharray='1, 2' id='_jbVUAD_LEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_jawFMD_LEDqUzPH5DK90Lg'>
+    <line y1='504.0' x1='750.0' y2='504.0' x2='773.0' stroke-dasharray='1, 2' id='_jbUF4D_LEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_jakfAD_LEDqUzPH5DK90Lg'>
+    <line y1='454.0' x1='773.0' y2='454.0' x2='750.0' id='_jbN_QD_LEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(750.0,454.0) rotate(-90.0)' stroke-width='1.0' fill='rgb(0, 0, 0)' stroke='rgb(0, 0, 0)' points='-4.0,12.0 0.0,0.0 4.0,12.0'/>
+  </g>
+  <g id='_jakfAD_LEDqUzPH5DK90Lg'>
+    <line y1='439.0' x1='773.0' y2='454.0' x2='773.0' id='_jbNYMD_LEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_jakfAD_LEDqUzPH5DK90Lg'>
+    <line y1='440.0' x1='743.0' y2='439.0' x2='773.0' id='_jbMKED_LEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+</svg>
