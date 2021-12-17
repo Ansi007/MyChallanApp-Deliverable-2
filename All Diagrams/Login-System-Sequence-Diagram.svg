@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='70 -15 858 460' xmlns:xlink='http://www.w3.org/1999/xlink' width='858.0px' font-size='13' font-family='Arial, LiberationSans' version='1.1' height='460.0px'>
+  <defs>
+<style type='text/css'><![CDATA[svg text {text-rendering: geometricPrecision;}]]></style>    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='ea1869b9-b748-45e8-b466-ff53addb45a6' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='c3afeb4b-8c5d-4357-83db-1f30e3006b5e' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='9f95d8e7-5a12-43e8-8a82-2a3edbdf808c' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(239, 233, 222)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='f079f615-3f29-4854-ad7c-b771a74a2778' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(239, 233, 222)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='5280ac10-c802-4119-8b13-ad91426f2735' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(239, 233, 222)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='156cbef7-1f5e-40d5-a333-7d266850b35e' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(239, 233, 222)'/>
+    </linearGradient>
+  </defs>
+  <desc>SequenceDiagram</desc>
+  <g transform='translate(100.0,82.0)' id='_Y3EHMD_PEDqUzPH5DK90Lg'>
+    <polygon stroke-width='0.5' fill='rgb(255, 255, 255)' stroke='rgb(107, 107, 107)' look='allInOne' points='0.0,0.0 0.0,320.0 190.0,320.0 190.0,15.0 175.0,0.0'/>
+    <polygon stroke-width='1.0' fill='rgb(107, 107, 107)' look='border' stroke='rgb(107, 107, 107)' points='175.0,1.0 175.0,15.0 189.0,15.0'/>
+    <clipPath id='clip_Y3EHMD_PEDqUzPH5DK90Lg'>
+      <rect x='5.0' width='165.0px' y='5.0' height='310.0px'/>
+    </clipPath>
+    <g transform='translate(0.0,0.0)'>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='18.0' font-size='13' fill='rgb(45, 45, 45)'>UC2: Sign In</text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='31.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='44.0' font-size='13' fill='rgb(45, 45, 45)'>Main Success Scenario (or</text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='57.0' font-size='13' fill='rgb(45, 45, 45)'>Basic Flow):</text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='70.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='83.0' font-size='13' fill='rgb(45, 45, 45)'>•    The user connects to</text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='96.0' font-size='13' fill='rgb(45, 45, 45)'>the system.</text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='109.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='122.0' font-size='13' fill='rgb(45, 45, 45)'>•    The user enters his/her</text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='135.0' font-size='13' fill='rgb(45, 45, 45)'>CNIC and password.</text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='148.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='161.0' font-size='13' fill='rgb(45, 45, 45)'>•    The system validates</text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='174.0' font-size='13' fill='rgb(45, 45, 45)'>the CNIC and password.</text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='187.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='200.0' font-size='13' fill='rgb(45, 45, 45)'>•    The system approves</text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='213.0' font-size='13' fill='rgb(45, 45, 45)'>login request.</text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='226.0' font-size='13' fill='rgb(45, 45, 45)'> </text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='239.0' font-size='13' fill='rgb(45, 45, 45)'>• User is redirected to the</text>
+      <text clip-path='url(#clip_Y3EHMD_PEDqUzPH5DK90Lg)' x='5.0' y='252.0' font-size='13' fill='rgb(45, 45, 45)'>main page.</text>
+    </g>
+  </g>
+  <g transform='translate(353.0,15.0)' id='_FLkXgD_QEDqUzPH5DK90Lg'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='149.0px' y='0.0' stroke-width='1.0' fill='url(#ea1869b9-b748-45e8-b466-ff53addb45a6)' stroke='rgb(187, 187, 187)' look='allInOne' height='33.0px'/>
+    <line y1='33.0' x1='74.5' y2='400.0' stroke-dasharray='10, 5' x2='74.5' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+    <g transform='translate(16.0)'>
+      <image x='0.0' width='16.0' y='10.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAHlBMVEX////g6vJGd6yyyN+2y+Dn7/fw9frD0+X5+/3H1uZmESFUAAAAAXRSTlMAQObYZgAAAAFiS0dEAmYLfGQAAAAHdElNRQfhBA8EJBBXeY0PAAAATklEQVQI12NgYGBUUmQAAyFjIwEwQyU0RAHMUEtLgzDUO9ohDKGZkyBq4LoYJk2AUEpAAGLOnDlp5swJyFIIBqemJkwAIsSpCUJQFUAMALiSE4+MitOeAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE1LTAxLTIxVDE0OjM5OjAzKzAxOjAwLVOS0gAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNS0wMS0yMVQxNDozOTowMyswMTowMFwOKm4AAAAASUVORK5CYII=' height='16.0'/>
+      <text font-weight='bold' text-anchor='start' x='18.0' y='22.0' font-size='13' fill='rgb(3, 54, 86)'>User: &lt;&lt;actor&gt;&gt;</text>
+    </g>
+  </g>
+  <g transform='translate(710.0,15.0)' id='_cL9J8D_QEDqUzPH5DK90Lg'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='96.0px' y='0.0' stroke-width='1.0' fill='url(#c3afeb4b-8c5d-4357-83db-1f30e3006b5e)' stroke='rgb(187, 187, 187)' look='allInOne' height='33.0px'/>
+    <line y1='33.0' x1='48.0' y2='400.0' stroke-dasharray='10, 5' x2='48.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+    <g transform='translate(16.0)'>
+      <image x='0.0' width='16.0' y='10.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAMFBMVEX///9woMRAgLDi8P84e7Dp9P86fLDw9/88fbD3+/89frD+/v8/f7AAUpEAS4XA0+HHhLc3AAAAAXRSTlMAQObYZgAAAAFiS0dEDxi6ANkAAAAHdElNRQfhBA4RJS4tUqcbAAAAQElEQVQI12NgYFQCAQYGBiZjIDABMUKBIAzEKAeCChBjJhDMAjF2A8EeIAOo6xJYFxA8YICCDzDGAwwGMVIgAADwcBTlv8WhiQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNS0wMS0yMVQxNDozOTowMyswMTowMC1TktIAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTUtMDEtMjFUMTQ6Mzk6MDMrMDE6MDBcDipuAAAAAElFTkSuQmCC' height='16.0'/>
+      <text font-weight='bold' text-anchor='start' x='18.0' y='22.0' font-size='13' fill='rgb(3, 54, 86)'>System</text>
+    </g>
+  </g>
+  <g transform='translate(750.0,90.0)' id='_imQT4D_QEDqUzPH5DK90Lg'>
+    <rect rx='2.0' ry='2.0' x='0.0' width='16.0px' y='0.0' stroke-width='1.0' fill='url(#9f95d8e7-5a12-43e8-8a82-2a3edbdf808c)' stroke='rgb(194, 183, 159)' look='allInOne' height='50.0px'/>
+  </g>
+  <g transform='translate(750.0,166.0)' id='_m76skD_QEDqUzPH5DK90Lg'>
+    <rect rx='2.0' ry='2.0' x='0.0' width='16.0px' y='0.0' stroke-width='1.0' fill='url(#f079f615-3f29-4854-ad7c-b771a74a2778)' stroke='rgb(194, 183, 159)' look='allInOne' height='110.0px'/>
+  </g>
+  <g transform='translate(750.0,308.0)' id='_7fHq4D_QEDqUzPH5DK90Lg'>
+    <rect rx='2.0' ry='2.0' x='0.0' width='16.0px' y='0.0' stroke-width='1.0' fill='url(#5280ac10-c802-4119-8b13-ad91426f2735)' stroke='rgb(194, 183, 159)' look='allInOne' height='50.0px'/>
+  </g>
+  <g transform='translate(757.0,193.0)' id='_tTy0oD_QEDqUzPH5DK90Lg'>
+    <rect rx='2.0' ry='2.0' x='0.0' width='16.0px' y='0.0' stroke-width='1.0' fill='url(#156cbef7-1f5e-40d5-a333-7d266850b35e)' stroke='rgb(194, 183, 159)' look='allInOne' height='50.0px'/>
+  </g>
+  <g transform='translate(513.0,65.0)' id='_imar8D_QEDqUzPH5DK90Lg'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='76.5' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>Enter CNIC &amp;</text>
+      <text text-anchor='middle' x='76.5' y='29.0' font-size='13' fill='rgb(0, 0, 0)'>Password</text>
+    </g>
+  </g>
+  <g transform='translate(524.0,141.0)' id='_m8DPcD_QEDqUzPH5DK90Lg'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='73.5' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>Login(CNIC,Password)</text>
+    </g>
+  </g>
+  <g transform='translate(508.0,252.0)' id='_m8PcsD_QEDqUzPH5DK90Lg'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='83.5' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>Login request is</text>
+      <text text-anchor='middle' x='83.5' y='29.0' font-size='13' fill='rgb(0, 0, 0)'>approved.</text>
+    </g>
+  </g>
+  <g transform='translate(519.0,336.0)' id='_7fbM4D_QEDqUzPH5DK90Lg'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='79.5' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>Redirected to main</text>
+      <text text-anchor='middle' x='79.5' y='29.0' font-size='13' fill='rgb(0, 0, 0)'>page.</text>
+    </g>
+  </g>
+  <g transform='translate(796.0,231.0)' id='_tUR80D_QEDqUzPH5DK90Lg'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='51.0' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>Login</text>
+      <text text-anchor='middle' x='51.0' y='29.0' font-size='13' fill='rgb(0, 0, 0)'>accepted</text>
+    </g>
+  </g>
+  <g transform='translate(795.0,153.0)' id='_tUGWoD_QEDqUzPH5DK90Lg'>
+    <g transform='translate(0.0,0.0)'>
+      <text text-anchor='middle' x='47.5' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>Authenticate()</text>
+    </g>
+  </g>
+  <g id='_imJmMD_QEDqUzPH5DK90Lg'>
+    <line y1='90.0' x1='428.0' y2='90.0' x2='750.0' id='_imVMYD_QEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(750.0,90.0) rotate(90.0)' stroke-width='1.0' fill='rgb(0, 0, 0)' stroke='rgb(0, 0, 0)' points='-4.0,12.0 0.0,0.0 4.0,12.0'/>
+  </g>
+  <g id='_m72bID_QEDqUzPH5DK90Lg'>
+    <line y1='276.0' x1='750.0' y2='276.0' x2='428.0' stroke-dasharray='1, 2' id='_m8Frsj_QEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(428.0,276.0) rotate(-90.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_m7w7kD_QEDqUzPH5DK90Lg'>
+    <line y1='166.0' x1='428.0' y2='166.0' x2='750.0' id='_m79v4j_QEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(750.0,166.0) rotate(90.0)' stroke-width='1.0' fill='rgb(0, 0, 0)' stroke='rgb(0, 0, 0)' points='-4.0,12.0 0.0,0.0 4.0,12.0'/>
+  </g>
+  <g id='_tTw_cD_QEDqUzPH5DK90Lg'>
+    <line y1='258.0' x1='796.0' y2='259.0' x2='766.0' stroke-dasharray='1, 2' id='_tUQHoD_QEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(766.0,259.0) rotate(-91.9091524329964)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_tTw_cD_QEDqUzPH5DK90Lg'>
+    <line y1='243.0' x1='796.0' y2='258.0' x2='796.0' stroke-dasharray='1, 2' id='_tUPgkD_QEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_tTw_cD_QEDqUzPH5DK90Lg'>
+    <line y1='243.0' x1='773.0' y2='243.0' x2='796.0' stroke-dasharray='1, 2' id='_tUNrYD_QEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_tTqRwD_QEDqUzPH5DK90Lg'>
+    <line y1='193.0' x1='796.0' y2='193.0' x2='773.0' id='_tUFvkD_QEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(773.0,193.0) rotate(-90.0)' stroke-width='1.0' fill='rgb(0, 0, 0)' stroke='rgb(0, 0, 0)' points='-4.0,12.0 0.0,0.0 4.0,12.0'/>
+  </g>
+  <g id='_tTqRwD_QEDqUzPH5DK90Lg'>
+    <line y1='178.0' x1='796.0' y2='193.0' x2='796.0' id='_tUEhcD_QEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_tTqRwD_QEDqUzPH5DK90Lg'>
+    <line y1='179.0' x1='766.0' y2='178.0' x2='796.0' id='_tUDTUD_QEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_7fF1sD_QEDqUzPH5DK90Lg'>
+    <line y1='358.0' x1='750.0' y2='358.0' x2='428.0' stroke-dasharray='1, 2' id='_7fVtUj_QEDqUzPH5DK90Lg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(428.0,358.0) rotate(-90.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+</svg>
